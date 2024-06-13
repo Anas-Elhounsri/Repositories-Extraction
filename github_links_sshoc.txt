@@ -1,0 +1,6 @@
+https://github.com/jpadfield/dynamic-modelling/tree/v1.5
+https://github.com/jpadfield/sshoc-data-presentation/tree/v1.0
+https://github.com/jpadfield/sshoc_raphael_modelling/tree/v1.0
+https://github.com/jpadfield/sshoc_grounds_modelling/tree/v0.9
+https://github.com/jpadfield/iiif-discovery/tree/v2.0
+https://github.com/jpadfield/simple-site/tree/v1.7
