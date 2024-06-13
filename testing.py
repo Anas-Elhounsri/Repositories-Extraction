@@ -14,6 +14,7 @@ all_tools = []
 # community_1 = 'sshoc'
 # community_2 = 'escape2020'
 # community_3 = 'LS-RI'
+# community_4 = 'PANOSC'
 
 def zenodo_api(community):
 # For using Zenodo, you need to have an access token, you can get the token for their website
