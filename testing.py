@@ -1,6 +1,5 @@
 import requests
 import json
-import xml.dom.minidom
 import time
 
 
@@ -31,34 +30,47 @@ def zenodo_api(community):
     else:
         print("Failed to retrieve data:", response.status_code)
 
-def bio_tools_api(page):
-    response = requests.get("https://bio.tools/api/tool", 
-                            params={'format': 'xml',
-                                    'page':page})
+def bio_tools_api():
+    page =1
+    all_tools = []
+    start_time = time.time()
+
+    while True:
+        response = requests.get("https://bio.tools/api/tool", 
+                                params={'format': 'json',
+                                        'page':page})
+        
+        if response.status_code == 200:
+            data = response.json()
+            all_tools.extend(data['list'])
+            print(f"Extracting for page {page}...")
+            if data['next']:
+                page+= 1
+            else:
+                break
+        
+        else:
+            print("Failed to retrieve data:", response.status_code)
+
+    with open(f'response_ls_ri.json', 'w') as json_file:
+        json.dump(all_tools, json_file, indent=4)
     
-    if response.status_code == 200:
-        return response.text
-
-        # with open(f'response_ls_ri.xml', 'w') as xml_file:
-        #     xml_file.write(pretty_xml_str)
-        #     print("Successfully retrieved data")
-        #     return response.text
-        
-    else:
-        print("Failed to retrieve data:", response.status_code)
-        
+    end_time = time.time()  
+    total_time = end_time - start_time
+    
+    print(f"Successfully retrieved and saved all data in {total_time:.2f} seconds")
 
 
-def extract_repos_json(community):
+def extract_repos_zenodo(community):
 
     with open(f'response_{community}.json', 'r') as file:
-        data_sshoc = json.load(file)
+        data = json.load(file)
         print("Opened & loaded successfully")
 
     github_links = []
 
     # Here we are accessing "related_identifiers" section of the json file that contains the github links if available
-    for entry in data_sshoc['hits']['hits']:
+    for entry in data['hits']['hits']:
         if 'related_identifiers' in entry['metadata']:
             for identifier in entry['metadata']['related_identifiers']:
                 if identifier['scheme'] == 'url' and 'github.com' in identifier['identifier']:
@@ -71,62 +83,48 @@ def extract_repos_json(community):
 
     print(f"Extracted {len(github_links)} GitHub links and saved to github_links_{community}.txt")
 
-# def extract_repos_xml(community):
+def extract_repos_ls_ri():
+
+    with open(f'response_ls_ri.json', 'r') as file:
+        data = json.load(file)
+        print("Opened & loaded successfully")
+
+    github_links = []
+
+    for entry in data:
+        if 'homepage' in entry and 'github.com' in entry['homepage']:
+            name = entry['name']
+            github_url = entry['homepage']
+            github_links.append({"name": name, "github_url": github_url})
+
+        with open("github_links_ls_ri.txt", "w") as output_file:
+            for entry in github_links:
+                github_url = entry["github_url"]
+                output_file.write(github_url + "\n")
+
+    print(f"Extracted {len(github_links)} GitHub links and saved to github_links_ls_ri.txt")
 
 community =""
 while community != 's':
+    print("")
+    community = input("Choose the community you wish to extract data from (type 's' to stop):\n\n- sshoc\n- escape2020\n- LS-RI \n- PANOSC (In progess)\n\nInput:").lower()
     
-    community = input("Choose the community you wish to extract data from (type 's' to stop):\n- sshoc\n- escape2020\n- LS-RI (In progress not yet finished)\nInput:").lower()
-
     if community != 's' and community == 'sshoc' or community == 'escape2020':
         print("")
         print("----------------------------------------------")
         zenodo_api(community)
-        extract_repos_json(community)
+        extract_repos_zenodo(community)
         print("----------------------------------------------")
         print("")
 
     elif community != 's' and community == 'ls-ri':
         print("")
-        
-        start_time = time.time()
-        while True:
-            
-            print(f"Fetching page {page}...")
-            tools_xml_str = bio_tools_api(page)
-            if tools_xml_str:
-
-                # We will be parsing the current page's XML
-                xml_dom = xml.dom.minidom.parseString(tools_xml_str)
-                tools = xml_dom.getElementsByTagName("tool")
-                all_tools.extend(tools)
-                page += 1
-
-            else:
-                break
-
-        # We need to combine all the tools under a single root element
-        combined_xml_str = '<tools>'
-        for tool in all_tools:
-            combined_xml_str += tool.toxml()
-        combined_xml_str += '</tools>'
-
-        combined_xml_dom = xml.dom.minidom.parseString(combined_xml_str)
-        pretty_combined_xml_str = combined_xml_dom.toprettyxml(indent="  ")
-
-        with open("tools_sequence_alignment_pretty.xml", "w") as file:
-            file.write(pretty_combined_xml_str)
-
-        print("Data saved to response_ls_ri.xml")
+        print("----------------------------------------------")
+        bio_tools_api()
+        extract_repos_ls_ri()
+        print("----------------------------------------------")
         print("")
 
-        end_time = time.time()
-        execution_time = end_time - start_time
-
-        print(f"Script execution time: {execution_time:.2f} seconds")
-
-    else:
-        continue
-
 print("")
-print("Exited successfully .")
+print("Exited successfully.")
+print("")
