@@ -24,7 +24,7 @@ Input:
 - Example output:
 ``` bash
 Input:sshoc
-Please input your access token: Qeh4v706RtGlnbiXN4PQ3Vyxs9YR1wxZTLOcp5wGiowq1hbAiBZuUsi9wiXm
+Please input your access token: <Your access token>
 
 
 ----------------------------------------------
