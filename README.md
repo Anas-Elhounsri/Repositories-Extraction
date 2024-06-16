@@ -9,7 +9,8 @@
 ``` bash
 pip install -r requirements.txt
 ```
-- Run the script then choose the community from the list that you wish you extract data from :
+- Run the script then choose the community from the list that you wish you extract data from : *(Note for `SSHOC` and `ESCAPE` communities, you need to get an access token from [Zenodo](https://zenodo.org/account/settings/applications/tokens/new/))*
+
 ``` bash
 Choose the community you wish to extract data from (type 's' to stop):
 
