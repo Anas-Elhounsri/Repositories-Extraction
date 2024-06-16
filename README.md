@@ -21,4 +21,16 @@ Choose the community you wish to extract data from (type 's' to stop):
 
 Input:
 ```
+- Example output:
+``` bash
+Input:sshoc
+Please input your access token: Qeh4v706RtGlnbiXN4PQ3Vyxs9YR1wxZTLOcp5wGiowq1hbAiBZuUsi9wiXm
+
+
+----------------------------------------------
+Successfully retrieved data
+Opened & loaded successfully
+Extracted 6 GitHub links and saved to github_links_sshoc.txt
+----------------------------------------------
+```
 - On you local directory you will see the datasets extracted, both the `JSON` and the `txt` file of GitHub links. 
