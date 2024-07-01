@@ -1,14 +1,10 @@
 import requests
 import json
-import time
 
 type = 'software'
-page = 1
-all_tools_xml_str = ""
-all_tools = []
 
 def extract_data_zenodo(community, token):
-# For using Zenodo, you need to have an access token, you can get the token for their website
+    # For using Zenodo, you need to have an access token, you can get the token for their website
     response = requests.get("https://zenodo.org/api/records",
                             params={
                                 'communities': community,
@@ -32,12 +28,11 @@ def extract_repos_zenodo(community):
     for entry in data['hits']['hits']:
         if 'related_identifiers' in entry['metadata']:
             for identifier in entry['metadata']['related_identifiers']:
-                if identifier['scheme'] == 'url' and ('github.com' or 'gitlab.com' in identifier['identifier']):
-                    github_links.append(identifier['identifier'])
+                if identifier['scheme'] == 'url' and ('github.com' in identifier['identifier'] or 'gitlab.com' in identifier['identifier']):
+                    github_links.append({'community': community, 'githublink': identifier['identifier']})
 
     # After extracting the links and adding them to a list, we create a txt file for the respective cluster
-    with open(f'github_links_{community}.txt', 'w') as output_file:
-        for link in github_links:
-            output_file.write(link + '\n')
+    with open(f'github_links_{community}.json', 'w') as output_file:
+        json.dump(github_links, output_file, indent=4)
 
-    print(f"Extracted {len(github_links)} GitHub links and saved to github_links_{community}.txt")
+    print(f"Extracted {len(github_links)} GitHub links and saved to github_links_{community}.json")

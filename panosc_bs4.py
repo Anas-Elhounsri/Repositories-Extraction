@@ -1,13 +1,11 @@
 import requests
 import json
-import requests
 from bs4 import BeautifulSoup
 
 base_url = "https://software.pan-data.eu/software?page="
 profile_url = "https://software.pan-data.eu"
 
 def scrape_software_catalogue(page):
-
     response = requests.get(base_url + str(page))
     soup = BeautifulSoup(response.content, 'html.parser')
     links = []
@@ -18,7 +16,6 @@ def scrape_software_catalogue(page):
     return links
 
 def extract_repos_panosc(profile_url):
-
     response = requests.get(profile_url)
     soup = BeautifulSoup(response.content, 'html.parser')
     website_section = soup.find('td', text='Website')
@@ -31,7 +28,6 @@ def extract_repos_panosc(profile_url):
     return None 
 
 def write_repos_panosc():
-
     repos_links = []
     for page in range(1, 10):
         print(f"Extracting for page {page}...")
@@ -39,12 +35,11 @@ def write_repos_panosc():
         for link in software_links:
             github_gitlab_link = extract_repos_panosc(link)
             if github_gitlab_link:
-                repos_links.append(github_gitlab_link)
+                repos_links.append({'community': 'PANOSC', 'githublink': github_gitlab_link})
 
-    with open(f'github_links_panosc.txt', 'w') as output_file:
-        for link in repos_links:
-            output_file.write(link + '\n')
+    with open('github_links_panosc.json', 'w') as output_file:
+        json.dump(repos_links, output_file, indent=4)
 
-    print(f"Extracted {len(repos_links)} GitHub & Gitlab links and saved to repo_links_panosc.txt")
-    for link in repos_links:
-        print(link)
+    print(f"Extracted {len(repos_links)} GitHub & GitLab links and saved to github_links_panosc.json")
+    for repo_link in repos_links:
+        print(repo_link)

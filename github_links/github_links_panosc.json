@@ -1,0 +1,94 @@
+[
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/id03/binoculars"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/jackey-qiu/DaFy"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/kif/dahu"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/European-XFEL/EXtra-data"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/European-XFEL/EXtra-geom"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/silx-kit/fabio"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/kif/freesas/"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/European-XFEL/h5glance"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/ElettraSciComp/h5nuvola"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/silx-kit/h5web"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/PaNOSC-ViNYL/McStasScript"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/maxiv-science/nanomax-analysis-utils"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/ElettraSciComp/Pore3D"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/ElettraSciComp/PtychoAlignTools"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/pyFAI"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/vasole/pymca"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/QENSlibrary/QENSmodels"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/SasView/"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/DiamondLightSource/Savu"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/ElettraSciComp/STP-Gui"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/tschoonj/xmimsim"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/tschoonj/xraylib/wiki"
+    },
+    {
+        "community": "PANOSC",
+        "githublink": "https://github.com/golosio/xrmc"
+    }
+]
