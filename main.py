@@ -1,3 +1,11 @@
+import sys
+
+module_path= '\\APIS'
+
+if module_path not in sys.path:
+    sys.path.insert(0, f'{sys.path[0]}{module_path}')
+
+
 from zenodo_api import extract_data_zenodo, extract_repos_zenodo
 from ls_ri_api import extract_data_ls_ri, extract_repos_ls_ri
 from panosc_bs4 import write_repos_panosc

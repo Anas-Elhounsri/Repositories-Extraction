@@ -1,0 +1,1089 @@
+{
+    "hits": {
+        "hits": [
+            {
+                "created": "2023-12-09T23:59:33.445323+00:00",
+                "modified": "2023-12-10T00:13:20.158929+00:00",
+                "id": 10329045,
+                "conceptrecid": "4724103",
+                "doi": "10.5281/zenodo.10329045",
+                "conceptdoi": "10.5281/zenodo.4724103",
+                "doi_url": "https://doi.org/10.5281/zenodo.10329045",
+                "metadata": {
+                    "title": "Dynamic Modeller - Improved formatting and JSON-LD handling",
+                    "doi": "10.5281/zenodo.10329045",
+                    "publication_date": "2023-12-09",
+                    "description": "<p>This is an interactive live modelling system which can automatically convert simple tab separated triples or JSON-LD into graphical models using the <a href=\"https://mermaid-js.github.io/mermaid\">mermaid library</a>. General updates and improvements have been carried out, with the addition of improved options for formatting and the conversion of JSON-LD, specifically in relation to those created by the <a href=\"https://linked.art\">Linked.Art</a> project. The compression of data within bookmark URLs has been updated and the option for the direct creation of png version of models has been improved.</p>\n<p>Instructions: Several worked examples, including some simple instructions relating to how this system works are included in the interactive web site: <a href=\"https://research.ng-london.org.uk/modelling/\">dynamic modelling</a>, with all of the related code presented in <a href=\"https://github.com/jpadfield/dynamic-modelling\">GitHub</a>.</p>",
+                    "access_right": "open",
+                    "creators": [
+                        {
+                            "name": "Joseph Padfield",
+                            "affiliation": "The National Gallery",
+                            "orcid": "0000-0002-2572-6428"
+                        }
+                    ],
+                    "contributors": [
+                        {
+                            "name": "Fremout, Wim",
+                            "affiliation": "Royal Institute for Cultural Heritage",
+                            "type": "Other",
+                            "orcid": "0000-0002-1684-377X"
+                        },
+                        {
+                            "name": "Sotiropoulou, Sophia",
+                            "affiliation": "FORTH Institute of Electronic Structure and Laser",
+                            "type": "Other",
+                            "orcid": "0000-0001-9146-8474"
+                        }
+                    ],
+                    "keywords": [
+                        "mermaid.js",
+                        "interoperability",
+                        "FAIR",
+                        "Dynamic",
+                        "Online Tool",
+                        "Modelling"
+                    ],
+                    "related_identifiers": [
+                        {
+                            "identifier": "https://github.com/jpadfield/dynamic-modelling/tree/v1.5",
+                            "relation": "isSupplementTo",
+                            "resource_type": "software",
+                            "scheme": "url"
+                        },
+                        {
+                            "identifier": "https://research.ng-london.org.uk/modelling",
+                            "relation": "compiles",
+                            "resource_type": "other",
+                            "scheme": "url"
+                        }
+                    ],
+                    "version": "v1.5",
+                    "language": "eng",
+                    "resource_type": {
+                        "title": "Software",
+                        "type": "software"
+                    },
+                    "license": {
+                        "id": "cc-by-4.0"
+                    },
+                    "grants": [
+                        {
+                            "code": "871034",
+                            "internal_id": "10.13039/501100000780::871034",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Integrating Platforms for the  European Research Infrastructure ON Heritage Science",
+                            "acronym": "IPERION HS",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/871034"
+                        },
+                        {
+                            "code": "10044057",
+                            "internal_id": "10.13039/100014013::10044057",
+                            "funder": {
+                                "name": "UK Research and Innovation",
+                                "doi": "10.13039/100014013",
+                                "acronym": "UKRI"
+                            },
+                            "title": "European Research Infrastructure for Heritage Science Implementation Phase (E-RIHS IP)",
+                            "program": "Innovate UK"
+                        }
+                    ],
+                    "communities": [
+                        {
+                            "id": "e-rihs"
+                        },
+                        {
+                            "id": "sshoc"
+                        },
+                        {
+                            "id": "eu"
+                        },
+                        {
+                            "id": "871034"
+                        }
+                    ],
+                    "relations": {
+                        "version": [
+                            {
+                                "index": 9,
+                                "is_last": true,
+                                "parent": {
+                                    "pid_type": "recid",
+                                    "pid_value": "4724103"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "title": "Dynamic Modeller - Improved formatting and JSON-LD handling",
+                "links": {
+                    "self": "https://zenodo.org/api/records/10329045",
+                    "self_html": "https://zenodo.org/records/10329045",
+                    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.10329045",
+                    "doi": "https://doi.org/10.5281/zenodo.10329045",
+                    "parent": "https://zenodo.org/api/records/4724103",
+                    "parent_html": "https://zenodo.org/records/4724103",
+                    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.4724103",
+                    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10329045/manifest",
+                    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10329045/sequence/default",
+                    "files": "https://zenodo.org/api/records/10329045/files",
+                    "media_files": "https://zenodo.org/api/records/10329045/media-files",
+                    "archive": "https://zenodo.org/api/records/10329045/files-archive",
+                    "archive_media": "https://zenodo.org/api/records/10329045/media-files-archive",
+                    "latest": "https://zenodo.org/api/records/10329045/versions/latest",
+                    "latest_html": "https://zenodo.org/records/10329045/latest",
+                    "draft": "https://zenodo.org/api/records/10329045/draft",
+                    "versions": "https://zenodo.org/api/records/10329045/versions",
+                    "access_links": "https://zenodo.org/api/records/10329045/access/links",
+                    "access_grants": "https://zenodo.org/api/records/10329045/access/grants",
+                    "access_users": "https://zenodo.org/api/records/10329045/access/users",
+                    "access_request": "https://zenodo.org/api/records/10329045/access/request",
+                    "access": "https://zenodo.org/api/records/10329045/access",
+                    "reserve_doi": "https://zenodo.org/api/records/10329045/draft/pids/doi",
+                    "communities": "https://zenodo.org/api/records/10329045/communities",
+                    "communities-suggestions": "https://zenodo.org/api/records/10329045/communities-suggestions",
+                    "requests": "https://zenodo.org/api/records/10329045/requests"
+                },
+                "updated": "2023-12-10T00:13:20.158929+00:00",
+                "recid": "10329045",
+                "revision": 6,
+                "files": [
+                    {
+                        "id": "e290360b-089a-419d-b8e0-5a5e6dd299fb",
+                        "key": "jpadfield/dynamic-modelling-v1.5.zip",
+                        "size": 293495,
+                        "checksum": "md5:037ff1d7c124f220136dac8e6f1c63ba",
+                        "links": {
+                            "self": "https://zenodo.org/api/records/10329045/files/jpadfield/dynamic-modelling-v1.5.zip/content"
+                        }
+                    }
+                ],
+                "owners": [
+                    {
+                        "id": "167103"
+                    }
+                ],
+                "status": "published",
+                "stats": {
+                    "downloads": 56,
+                    "unique_downloads": 50,
+                    "views": 641,
+                    "unique_views": 597,
+                    "version_downloads": 5,
+                    "version_unique_downloads": 5,
+                    "version_unique_views": 202,
+                    "version_views": 208
+                },
+                "state": "done",
+                "submitted": true
+            },
+            {
+                "created": "2022-04-15T09:32:18.733710+00:00",
+                "modified": "2022-07-01T13:03:06.035976+00:00",
+                "id": 6462988,
+                "conceptrecid": "6462987",
+                "doi": "10.5281/zenodo.6462988",
+                "conceptdoi": "10.5281/zenodo.6462987",
+                "doi_url": "https://doi.org/10.5281/zenodo.6462988",
+                "metadata": {
+                    "title": "SSHOC - SPARQL Endpoint Presentation Example",
+                    "doi": "10.5281/zenodo.6462988",
+                    "publication_date": "2022-04-15",
+                    "description": "<p>SPARQL Endpoint query and data presentation examples for the SSHOC Heritage Science Datasets</p>\n\n<p>This code is used to create the <a href=\"https://rdf.ng-london.org.uk/sshoc/\">National Gallery SSHOC Data Site</a>, which presents data formatted as part of a task entitled &#39;&#39;&#39;Issues in providing Open Data in Heritage Science&#39;&#39;&#39; (T5.6) within the <a href=\"https://www.sshopencloud.eu/\">SSHOC Horizon-2020 project</a>. This work, led by the <a href=\"https://www.nationalgallery.org.uk/\">National Gallery</a>, has explored increasing the accessibility and interoperability of existing Heritage Science data sets and making them more <a href=\"https://www.go-fair.org/fair-principles/\">FAIR</a>.</p>",
+                    "access_right": "open",
+                    "creators": [
+                        {
+                            "name": "Joseph Padfield",
+                            "affiliation": "The National Gallery",
+                            "orcid": "0000-0002-2572-6428"
+                        }
+                    ],
+                    "keywords": [
+                        "SPARQL",
+                        "Examples",
+                        "Data Presentation",
+                        "FAIR"
+                    ],
+                    "related_identifiers": [
+                        {
+                            "identifier": "https://github.com/jpadfield/sshoc-data-presentation/tree/v1.0",
+                            "relation": "isSupplementTo",
+                            "scheme": "url"
+                        }
+                    ],
+                    "version": "v1.0",
+                    "resource_type": {
+                        "title": "Software",
+                        "type": "software"
+                    },
+                    "license": {
+                        "id": "cc-by-nc-sa-4.0"
+                    },
+                    "grants": [
+                        {
+                            "code": "823782",
+                            "internal_id": "10.13039/501100000780::823782",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Social Sciences & Humanities Open Cloud",
+                            "acronym": "SSHOC",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/823782"
+                        }
+                    ],
+                    "communities": [
+                        {
+                            "id": "eu"
+                        },
+                        {
+                            "id": "sshoc"
+                        }
+                    ],
+                    "relations": {
+                        "version": [
+                            {
+                                "index": 0,
+                                "is_last": true,
+                                "parent": {
+                                    "pid_type": "recid",
+                                    "pid_value": "6462987"
+                                }
+                            }
+                        ]
+                    },
+                    "notes": "A live version of this software can be found at: https://rdf.ng-london.org.uk/sshoc"
+                },
+                "title": "SSHOC - SPARQL Endpoint Presentation Example",
+                "links": {
+                    "self": "https://zenodo.org/api/records/6462988",
+                    "self_html": "https://zenodo.org/records/6462988",
+                    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.6462988",
+                    "doi": "https://doi.org/10.5281/zenodo.6462988",
+                    "parent": "https://zenodo.org/api/records/6462987",
+                    "parent_html": "https://zenodo.org/records/6462987",
+                    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.6462987",
+                    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6462988/manifest",
+                    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6462988/sequence/default",
+                    "files": "https://zenodo.org/api/records/6462988/files",
+                    "media_files": "https://zenodo.org/api/records/6462988/media-files",
+                    "archive": "https://zenodo.org/api/records/6462988/files-archive",
+                    "archive_media": "https://zenodo.org/api/records/6462988/media-files-archive",
+                    "latest": "https://zenodo.org/api/records/6462988/versions/latest",
+                    "latest_html": "https://zenodo.org/records/6462988/latest",
+                    "draft": "https://zenodo.org/api/records/6462988/draft",
+                    "versions": "https://zenodo.org/api/records/6462988/versions",
+                    "access_links": "https://zenodo.org/api/records/6462988/access/links",
+                    "access_grants": "https://zenodo.org/api/records/6462988/access/grants",
+                    "access_users": "https://zenodo.org/api/records/6462988/access/users",
+                    "access_request": "https://zenodo.org/api/records/6462988/access/request",
+                    "access": "https://zenodo.org/api/records/6462988/access",
+                    "reserve_doi": "https://zenodo.org/api/records/6462988/draft/pids/doi",
+                    "communities": "https://zenodo.org/api/records/6462988/communities",
+                    "communities-suggestions": "https://zenodo.org/api/records/6462988/communities-suggestions",
+                    "requests": "https://zenodo.org/api/records/6462988/requests"
+                },
+                "updated": "2022-07-01T13:03:06.035976+00:00",
+                "recid": "6462988",
+                "revision": 5,
+                "files": [
+                    {
+                        "id": "d41b77ee-16b4-40d1-adad-dee8b6acd6e1",
+                        "key": "jpadfield/sshoc-data-presentation-v1.0.zip",
+                        "size": 105742,
+                        "checksum": "md5:448d0cca08f6cbdbe03916186605740f",
+                        "links": {
+                            "self": "https://zenodo.org/api/records/6462988/files/jpadfield/sshoc-data-presentation-v1.0.zip/content"
+                        }
+                    }
+                ],
+                "owners": [
+                    {
+                        "id": "167103"
+                    }
+                ],
+                "status": "published",
+                "stats": {
+                    "downloads": 3,
+                    "unique_downloads": 3,
+                    "views": 79,
+                    "unique_views": 73,
+                    "version_downloads": 3,
+                    "version_unique_downloads": 3,
+                    "version_unique_views": 73,
+                    "version_views": 79
+                },
+                "state": "done",
+                "submitted": true
+            },
+            {
+                "created": "2022-04-14T15:48:23.309101+00:00",
+                "modified": "2022-07-01T13:03:07.659921+00:00",
+                "id": 6461654,
+                "conceptrecid": "6461653",
+                "doi": "10.5281/zenodo.6461654",
+                "conceptdoi": "10.5281/zenodo.6461653",
+                "doi_url": "https://doi.org/10.5281/zenodo.6461654",
+                "metadata": {
+                    "title": "SSHOC - Raphael Resource CIDOC Mapping",
+                    "doi": "10.5281/zenodo.6461654",
+                    "publication_date": "2022-04-14",
+                    "description": "<p>In 2007 the <a href=\"https://cima.ng-london.org.uk/documentation\">Raphael Research Resource</a>&nbsp;project began to examine how complex conservation, scientific and art historical research could be combined in a flexible digital form. Exploring the presentation of interrelated high resolution images and text, along with how the data could be stored in relation to an event driven ontology in the form of <a href=\"http://www.w3.org/TR/rdf-concepts/\">RDF triples</a>. The original <a href=\"https://cima.ng-london.org.uk/documentation\">main user interface</a>&nbsp;is still live and the data stored within the system is presented here in the form of <a href=\"http://en.wikipedia.org/wiki/Linked_Data\">open linkable data</a>&nbsp;combined with a <a href=\"http://en.wikipedia.org/wiki/SPARQL\">SPARQL</a>&nbsp;end-point.&nbsp;An open version of this live data presentation, complete with a range of example queries can been found&nbsp;<a href=\"https://rdf.ng-london.org.uk/sshoc/\">Here</a>.</p>",
+                    "access_right": "open",
+                    "creators": [
+                        {
+                            "name": "Orla Delaney",
+                            "affiliation": null
+                        },
+                        {
+                            "name": "Joseph Padfield",
+                            "affiliation": "The National Gallery",
+                            "orcid": "0000-0002-2572-6428"
+                        }
+                    ],
+                    "keywords": [
+                        "Conservation Documentation",
+                        "IIIF",
+                        "Raphael",
+                        "Heritage Science",
+                        "CIDOC-CRM"
+                    ],
+                    "related_identifiers": [
+                        {
+                            "identifier": "https://github.com/jpadfield/sshoc_raphael_modelling/tree/v1.0",
+                            "relation": "isSupplementTo",
+                            "scheme": "url"
+                        }
+                    ],
+                    "version": "v1.0",
+                    "resource_type": {
+                        "title": "Software",
+                        "type": "software"
+                    },
+                    "license": {
+                        "id": "cc-by-nc-sa-4.0"
+                    },
+                    "grants": [
+                        {
+                            "code": "823782",
+                            "internal_id": "10.13039/501100000780::823782",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Social Sciences & Humanities Open Cloud",
+                            "acronym": "SSHOC",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/823782"
+                        }
+                    ],
+                    "communities": [
+                        {
+                            "id": "eu"
+                        },
+                        {
+                            "id": "sshoc"
+                        }
+                    ],
+                    "relations": {
+                        "version": [
+                            {
+                                "index": 0,
+                                "is_last": true,
+                                "parent": {
+                                    "pid_type": "recid",
+                                    "pid_value": "6461653"
+                                }
+                            }
+                        ]
+                    },
+                    "notes": "A live version of the mapped data created with this software can be found at: https://rdf.ng-london.org.uk/sshoc"
+                },
+                "title": "SSHOC - Raphael Resource CIDOC Mapping",
+                "links": {
+                    "self": "https://zenodo.org/api/records/6461654",
+                    "self_html": "https://zenodo.org/records/6461654",
+                    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.6461654",
+                    "doi": "https://doi.org/10.5281/zenodo.6461654",
+                    "parent": "https://zenodo.org/api/records/6461653",
+                    "parent_html": "https://zenodo.org/records/6461653",
+                    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.6461653",
+                    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6461654/manifest",
+                    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6461654/sequence/default",
+                    "files": "https://zenodo.org/api/records/6461654/files",
+                    "media_files": "https://zenodo.org/api/records/6461654/media-files",
+                    "archive": "https://zenodo.org/api/records/6461654/files-archive",
+                    "archive_media": "https://zenodo.org/api/records/6461654/media-files-archive",
+                    "latest": "https://zenodo.org/api/records/6461654/versions/latest",
+                    "latest_html": "https://zenodo.org/records/6461654/latest",
+                    "draft": "https://zenodo.org/api/records/6461654/draft",
+                    "versions": "https://zenodo.org/api/records/6461654/versions",
+                    "access_links": "https://zenodo.org/api/records/6461654/access/links",
+                    "access_grants": "https://zenodo.org/api/records/6461654/access/grants",
+                    "access_users": "https://zenodo.org/api/records/6461654/access/users",
+                    "access_request": "https://zenodo.org/api/records/6461654/access/request",
+                    "access": "https://zenodo.org/api/records/6461654/access",
+                    "reserve_doi": "https://zenodo.org/api/records/6461654/draft/pids/doi",
+                    "communities": "https://zenodo.org/api/records/6461654/communities",
+                    "communities-suggestions": "https://zenodo.org/api/records/6461654/communities-suggestions",
+                    "requests": "https://zenodo.org/api/records/6461654/requests"
+                },
+                "updated": "2022-07-01T13:03:07.659921+00:00",
+                "recid": "6461654",
+                "revision": 5,
+                "files": [
+                    {
+                        "id": "37c6f885-b275-4909-aba6-f9df0ffb1451",
+                        "key": "jpadfield/sshoc_raphael_modelling-v1.0.zip",
+                        "size": 24492442,
+                        "checksum": "md5:f6bd50ef4f588c3f196820595f1847ea",
+                        "links": {
+                            "self": "https://zenodo.org/api/records/6461654/files/jpadfield/sshoc_raphael_modelling-v1.0.zip/content"
+                        }
+                    }
+                ],
+                "owners": [
+                    {
+                        "id": "167103"
+                    }
+                ],
+                "status": "published",
+                "stats": {
+                    "downloads": 4,
+                    "unique_downloads": 4,
+                    "views": 102,
+                    "unique_views": 96,
+                    "version_downloads": 4,
+                    "version_unique_downloads": 4,
+                    "version_unique_views": 96,
+                    "version_views": 102
+                },
+                "state": "done",
+                "submitted": true
+            },
+            {
+                "created": "2022-04-14T14:24:23.609524+00:00",
+                "modified": "2022-07-01T13:03:12.016864+00:00",
+                "id": 6461470,
+                "conceptrecid": "6461469",
+                "doi": "10.5281/zenodo.6461470",
+                "conceptdoi": "10.5281/zenodo.6461469",
+                "doi_url": "https://doi.org/10.5281/zenodo.6461470",
+                "metadata": {
+                    "title": "SSHOC - Painting Sample CIDOC Mapping",
+                    "doi": "10.5281/zenodo.6461470",
+                    "publication_date": "2022-04-14",
+                    "description": "<p>In 2018 the <a href=\"https://doi.org/10.5281/zenodo.5838339\">IPERION-CH Grounds Database</a>&nbsp;was presented to examine how the data produced through the scientific examination of historic painting preparation or grounds samples, from multiple institutions could be combined in a flexible digital form. Exploring the presentation of interrelated high resolution images, text, complex metadata and procedural documentation. The original <a href=\"https://research.ng-london.org.uk/iperion/\">main user interface</a>&nbsp;is live, though password protected at this time. The SSHOC work aimed to make this data more <a href=\"https://www.go-fair.org/fair-principles/\">FAIR</a>&nbsp;so in addition to mapping it to a standard ontology, to increase interoperability, it has also been made available in the form of <a href=\"http://en.wikipedia.org/wiki/Linked_Data\">open linkable data</a>&nbsp;combined with a <a href=\"http://en.wikipedia.org/wiki/SPARQL\">SPARQL</a>&nbsp;end-point. A draft version of this live data presentation can been found <a href=\"https://rdf.ng-london.org.uk/sshoc/\">Here</a>.</p>",
+                    "access_right": "open",
+                    "creators": [
+                        {
+                            "name": "Orla Delaney",
+                            "affiliation": null
+                        },
+                        {
+                            "name": "Joseph Padfield",
+                            "affiliation": "The National Gallery",
+                            "orcid": "0000-0002-2572-6428"
+                        }
+                    ],
+                    "keywords": [
+                        "Conservation Documentation",
+                        "IIIF",
+                        "CIDOC CRM",
+                        "Painting Samples",
+                        "Cross Sections"
+                    ],
+                    "related_identifiers": [
+                        {
+                            "identifier": "https://github.com/jpadfield/sshoc_grounds_modelling/tree/v0.9",
+                            "relation": "isSupplementTo",
+                            "scheme": "url"
+                        }
+                    ],
+                    "version": "v0.9",
+                    "resource_type": {
+                        "title": "Software",
+                        "type": "software"
+                    },
+                    "license": {
+                        "id": "cc-by-nc-sa-4.0"
+                    },
+                    "grants": [
+                        {
+                            "code": "823782",
+                            "internal_id": "10.13039/501100000780::823782",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Social Sciences & Humanities Open Cloud",
+                            "acronym": "SSHOC",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/823782"
+                        }
+                    ],
+                    "communities": [
+                        {
+                            "id": "eu"
+                        },
+                        {
+                            "id": "sshoc"
+                        }
+                    ],
+                    "relations": {
+                        "version": [
+                            {
+                                "index": 0,
+                                "is_last": true,
+                                "parent": {
+                                    "pid_type": "recid",
+                                    "pid_value": "6461469"
+                                }
+                            }
+                        ]
+                    },
+                    "notes": "A live version of the mapped data created with this software can be found at: https://rdf.ng-london.org.uk/sshoc"
+                },
+                "title": "SSHOC - Painting Sample CIDOC Mapping",
+                "links": {
+                    "self": "https://zenodo.org/api/records/6461470",
+                    "self_html": "https://zenodo.org/records/6461470",
+                    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.6461470",
+                    "doi": "https://doi.org/10.5281/zenodo.6461470",
+                    "parent": "https://zenodo.org/api/records/6461469",
+                    "parent_html": "https://zenodo.org/records/6461469",
+                    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.6461469",
+                    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6461470/manifest",
+                    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6461470/sequence/default",
+                    "files": "https://zenodo.org/api/records/6461470/files",
+                    "media_files": "https://zenodo.org/api/records/6461470/media-files",
+                    "archive": "https://zenodo.org/api/records/6461470/files-archive",
+                    "archive_media": "https://zenodo.org/api/records/6461470/media-files-archive",
+                    "latest": "https://zenodo.org/api/records/6461470/versions/latest",
+                    "latest_html": "https://zenodo.org/records/6461470/latest",
+                    "draft": "https://zenodo.org/api/records/6461470/draft",
+                    "versions": "https://zenodo.org/api/records/6461470/versions",
+                    "access_links": "https://zenodo.org/api/records/6461470/access/links",
+                    "access_grants": "https://zenodo.org/api/records/6461470/access/grants",
+                    "access_users": "https://zenodo.org/api/records/6461470/access/users",
+                    "access_request": "https://zenodo.org/api/records/6461470/access/request",
+                    "access": "https://zenodo.org/api/records/6461470/access",
+                    "reserve_doi": "https://zenodo.org/api/records/6461470/draft/pids/doi",
+                    "communities": "https://zenodo.org/api/records/6461470/communities",
+                    "communities-suggestions": "https://zenodo.org/api/records/6461470/communities-suggestions",
+                    "requests": "https://zenodo.org/api/records/6461470/requests"
+                },
+                "updated": "2022-07-01T13:03:12.016864+00:00",
+                "recid": "6461470",
+                "revision": 6,
+                "files": [
+                    {
+                        "id": "a3bd12c6-173f-4311-aa85-af21253bddfc",
+                        "key": "jpadfield/sshoc_grounds_modelling-v0.9.zip",
+                        "size": 21125339,
+                        "checksum": "md5:dff8f08e930e8135421c9b264fdf20d5",
+                        "links": {
+                            "self": "https://zenodo.org/api/records/6461470/files/jpadfield/sshoc_grounds_modelling-v0.9.zip/content"
+                        }
+                    }
+                ],
+                "owners": [
+                    {
+                        "id": "167103"
+                    }
+                ],
+                "status": "published",
+                "stats": {
+                    "downloads": 3,
+                    "unique_downloads": 3,
+                    "views": 90,
+                    "unique_views": 83,
+                    "version_downloads": 3,
+                    "version_unique_downloads": 3,
+                    "version_unique_views": 83,
+                    "version_views": 90
+                },
+                "state": "done",
+                "submitted": true
+            },
+            {
+                "created": "2021-10-18T19:58:23.615861+00:00",
+                "modified": "2022-05-27T14:01:57.224946+00:00",
+                "id": 5576545,
+                "conceptrecid": "5512980",
+                "doi": "10.5281/zenodo.5576545",
+                "conceptdoi": "10.5281/zenodo.5512980",
+                "doi_url": "https://doi.org/10.5281/zenodo.5576545",
+                "metadata": {
+                    "title": "Simple IIIF Discovery",
+                    "doi": "10.5281/zenodo.5576545",
+                    "publication_date": "2021-10-18",
+                    "description": "<p>This code demonstrates generic public examples of a Simple IIIF Discovery system, based on tools used within the National Gallery to provide access to images from multiple institutions and present them together in IIIF compatible viewers.</p>\n\n<p>The system is based on a website requesting the details of IIIF images from a Simple IIIF Discovery end-point, based on a simple keyword search. The website does not need to understand the complexities of any underlying APIs, just the simple structure of the results returned by the end-point. The website then just needs to be able to reformat the IIIF results and feed them into a IIIF based viewer of choice.</p>\n\n<p>This version includes a number of updates to the original demonstrator related to improving the user interface, including adding a toggle option to jump between IIIF viewers, and updating the administration process of creating new end-points and related web-pages, this is all achieved via a simple JSON config files now.</p>\n\n<p>A working demo of this system can be seen at:&nbsp;https://research.ng-london.org.uk/ss-iiif</p>\n\n<p>&nbsp;</p>",
+                    "access_right": "open",
+                    "creators": [
+                        {
+                            "name": "Joseph Padfield",
+                            "affiliation": "The National Gallery",
+                            "orcid": "0000-0002-2572-6428"
+                        }
+                    ],
+                    "keywords": [
+                        "IIIF",
+                        "interoperability",
+                        "FAIR",
+                        "cross-collection",
+                        "search",
+                        "API",
+                        "Practical IIIF"
+                    ],
+                    "related_identifiers": [
+                        {
+                            "identifier": "https://github.com/jpadfield/iiif-discovery/tree/v2.0",
+                            "relation": "isSupplementTo",
+                            "resource_type": "software",
+                            "scheme": "url"
+                        },
+                        {
+                            "identifier": "https://research.ng-london.org.uk/ss-iiif",
+                            "relation": "isPublishedIn",
+                            "resource_type": "other",
+                            "scheme": "url"
+                        }
+                    ],
+                    "version": "v2.0",
+                    "resource_type": {
+                        "title": "Software",
+                        "type": "software"
+                    },
+                    "license": {
+                        "id": "gpl-2.0"
+                    },
+                    "grants": [
+                        {
+                            "code": "871034",
+                            "internal_id": "10.13039/501100000780::871034",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Integrating Platforms for the  European Research Infrastructure ON Heritage Science",
+                            "acronym": "IPERION HS",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/871034"
+                        },
+                        {
+                            "code": "AH/T011084/1",
+                            "internal_id": "10.13039/100014013::AH/T011084/1",
+                            "funder": {
+                                "name": "UK Research and Innovation",
+                                "doi": "10.13039/100014013",
+                                "acronym": "UKRI"
+                            },
+                            "title": "Practical applications of IIIF as a building block towards a digital National Collection",
+                            "program": "AHRC"
+                        },
+                        {
+                            "code": "823782",
+                            "internal_id": "10.13039/501100000780::823782",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Social Sciences & Humanities Open Cloud",
+                            "acronym": "SSHOC",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/823782"
+                        }
+                    ],
+                    "communities": [
+                        {
+                            "id": "sshoc"
+                        },
+                        {
+                            "id": "iiif"
+                        },
+                        {
+                            "id": "eu"
+                        },
+                        {
+                            "id": "tanc"
+                        },
+                        {
+                            "id": "871034"
+                        }
+                    ],
+                    "relations": {
+                        "version": [
+                            {
+                                "index": 1,
+                                "is_last": true,
+                                "parent": {
+                                    "pid_type": "recid",
+                                    "pid_value": "5512980"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "title": "Simple IIIF Discovery",
+                "links": {
+                    "self": "https://zenodo.org/api/records/5576545",
+                    "self_html": "https://zenodo.org/records/5576545",
+                    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.5576545",
+                    "doi": "https://doi.org/10.5281/zenodo.5576545",
+                    "parent": "https://zenodo.org/api/records/5512980",
+                    "parent_html": "https://zenodo.org/records/5512980",
+                    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.5512980",
+                    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5576545/manifest",
+                    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5576545/sequence/default",
+                    "files": "https://zenodo.org/api/records/5576545/files",
+                    "media_files": "https://zenodo.org/api/records/5576545/media-files",
+                    "archive": "https://zenodo.org/api/records/5576545/files-archive",
+                    "archive_media": "https://zenodo.org/api/records/5576545/media-files-archive",
+                    "latest": "https://zenodo.org/api/records/5576545/versions/latest",
+                    "latest_html": "https://zenodo.org/records/5576545/latest",
+                    "draft": "https://zenodo.org/api/records/5576545/draft",
+                    "versions": "https://zenodo.org/api/records/5576545/versions",
+                    "access_links": "https://zenodo.org/api/records/5576545/access/links",
+                    "access_grants": "https://zenodo.org/api/records/5576545/access/grants",
+                    "access_users": "https://zenodo.org/api/records/5576545/access/users",
+                    "access_request": "https://zenodo.org/api/records/5576545/access/request",
+                    "access": "https://zenodo.org/api/records/5576545/access",
+                    "reserve_doi": "https://zenodo.org/api/records/5576545/draft/pids/doi",
+                    "communities": "https://zenodo.org/api/records/5576545/communities",
+                    "communities-suggestions": "https://zenodo.org/api/records/5576545/communities-suggestions",
+                    "requests": "https://zenodo.org/api/records/5576545/requests"
+                },
+                "updated": "2022-05-27T14:01:57.224946+00:00",
+                "recid": "5576545",
+                "revision": 11,
+                "files": [
+                    {
+                        "id": "93c33fc1-dc1a-4599-a741-5c2a5480c223",
+                        "key": "jpadfield/iiif-discovery-v2.0.zip",
+                        "size": 3902919,
+                        "checksum": "md5:c3b430337624601347e6fbfd2ab15532",
+                        "links": {
+                            "self": "https://zenodo.org/api/records/5576545/files/jpadfield/iiif-discovery-v2.0.zip/content"
+                        }
+                    }
+                ],
+                "owners": [
+                    {
+                        "id": "167103"
+                    }
+                ],
+                "status": "published",
+                "stats": {
+                    "downloads": 25,
+                    "unique_downloads": 24,
+                    "views": 343,
+                    "unique_views": 320,
+                    "version_downloads": 17,
+                    "version_unique_downloads": 17,
+                    "version_unique_views": 251,
+                    "version_views": 268
+                },
+                "state": "done",
+                "submitted": true
+            },
+            {
+                "created": "2021-07-26T13:20:07.794570+00:00",
+                "modified": "2022-10-06T10:55:16.192034+00:00",
+                "id": 5137663,
+                "conceptrecid": "4504844",
+                "doi": "10.5281/zenodo.5137663",
+                "conceptdoi": "10.5281/zenodo.4504844",
+                "doi_url": "https://doi.org/10.5281/zenodo.5137663",
+                "metadata": {
+                    "title": "Simple Site - with Dynamic Build Option",
+                    "doi": "10.5281/zenodo.5137663",
+                    "publication_date": "2021-07-26",
+                    "description": "<p>This is a simple set of processes for creating a standard set of webpages based on a simple set of json files. This project is intended to work along side other projects to provide a simple way of creating a set of consistent webpages, which can be delivered as part of your own GitHub project using GitHub pages. It has been extended to allow more complex features such as presenting IIIIF (<a href=\"https://iiif.io\">https://iiif.io</a>) viewers, Timelines, and ordered Lists &amp; Galleries.</p>\n\n<p>Various updates to the related JavaScript libraries have been added along with an option to use the whole system to create dynamic as well as static websites.</p>\n\n<p>For more detail and the most current version of the code see:&nbsp;<a href=\"https://github.com/jpadfield/simple-site\">https://github.com/jpadfield/simple-site</a></p>",
+                    "access_right": "open",
+                    "creators": [
+                        {
+                            "name": "Joseph Padfield",
+                            "affiliation": "The National Gallery",
+                            "orcid": "0000-0002-2572-6428"
+                        }
+                    ],
+                    "keywords": [
+                        "Minimal Computing",
+                        "IIIF",
+                        "Practical IIIF"
+                    ],
+                    "related_identifiers": [
+                        {
+                            "identifier": "https://github.com/jpadfield/simple-site/tree/v1.7",
+                            "relation": "isSupplementTo",
+                            "scheme": "url"
+                        }
+                    ],
+                    "version": "v1.7",
+                    "language": "eng",
+                    "resource_type": {
+                        "title": "Software",
+                        "type": "software"
+                    },
+                    "license": {
+                        "id": "apgl-v3"
+                    },
+                    "grants": [
+                        {
+                            "code": "EP/R032785/1",
+                            "internal_id": "10.13039/100014013::EP/R032785/1",
+                            "funder": {
+                                "name": "UK Research and Innovation",
+                                "doi": "10.13039/100014013",
+                                "acronym": "UKRI"
+                            },
+                            "title": "ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings",
+                            "program": "EPSRC"
+                        },
+                        {
+                            "code": "AH/T011084/1",
+                            "internal_id": "10.13039/100014013::AH/T011084/1",
+                            "funder": {
+                                "name": "UK Research and Innovation",
+                                "doi": "10.13039/100014013",
+                                "acronym": "UKRI"
+                            },
+                            "title": "Practical applications of IIIF as a building block towards a digital National Collection",
+                            "program": "AHRC"
+                        },
+                        {
+                            "code": "823782",
+                            "internal_id": "10.13039/501100000780::823782",
+                            "funder": {
+                                "name": "European Commission",
+                                "doi": "10.13039/501100000780",
+                                "acronym": "EC"
+                            },
+                            "title": "Social Sciences & Humanities Open Cloud",
+                            "acronym": "SSHOC",
+                            "program": "H2020",
+                            "url": "https://cordis.europa.eu/projects/823782"
+                        },
+                        {
+                            "code": "AH/T011092/1",
+                            "internal_id": "10.13039/100014013::AH/T011092/1",
+                            "funder": {
+                                "name": "UK Research and Innovation",
+                                "doi": "10.13039/100014013",
+                                "acronym": "UKRI"
+                            },
+                            "title": "Persistent Identifiers as IRO Infrastructure",
+                            "program": "AHRC"
+                        }
+                    ],
+                    "communities": [
+                        {
+                            "id": "e-rihs"
+                        },
+                        {
+                            "id": "sshoc"
+                        },
+                        {
+                            "id": "tanc"
+                        },
+                        {
+                            "id": "iiif"
+                        }
+                    ],
+                    "relations": {
+                        "version": [
+                            {
+                                "index": 2,
+                                "is_last": true,
+                                "parent": {
+                                    "pid_type": "recid",
+                                    "pid_value": "4504844"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "title": "Simple Site - with Dynamic Build Option",
+                "links": {
+                    "self": "https://zenodo.org/api/records/5137663",
+                    "self_html": "https://zenodo.org/records/5137663",
+                    "self_doi": "https://zenodo.org/doi/10.5281/zenodo.5137663",
+                    "doi": "https://doi.org/10.5281/zenodo.5137663",
+                    "parent": "https://zenodo.org/api/records/4504844",
+                    "parent_html": "https://zenodo.org/records/4504844",
+                    "parent_doi": "https://zenodo.org/doi/10.5281/zenodo.4504844",
+                    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5137663/manifest",
+                    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5137663/sequence/default",
+                    "files": "https://zenodo.org/api/records/5137663/files",
+                    "media_files": "https://zenodo.org/api/records/5137663/media-files",
+                    "archive": "https://zenodo.org/api/records/5137663/files-archive",
+                    "archive_media": "https://zenodo.org/api/records/5137663/media-files-archive",
+                    "latest": "https://zenodo.org/api/records/5137663/versions/latest",
+                    "latest_html": "https://zenodo.org/records/5137663/latest",
+                    "draft": "https://zenodo.org/api/records/5137663/draft",
+                    "versions": "https://zenodo.org/api/records/5137663/versions",
+                    "access_links": "https://zenodo.org/api/records/5137663/access/links",
+                    "access_grants": "https://zenodo.org/api/records/5137663/access/grants",
+                    "access_users": "https://zenodo.org/api/records/5137663/access/users",
+                    "access_request": "https://zenodo.org/api/records/5137663/access/request",
+                    "access": "https://zenodo.org/api/records/5137663/access",
+                    "reserve_doi": "https://zenodo.org/api/records/5137663/draft/pids/doi",
+                    "communities": "https://zenodo.org/api/records/5137663/communities",
+                    "communities-suggestions": "https://zenodo.org/api/records/5137663/communities-suggestions",
+                    "requests": "https://zenodo.org/api/records/5137663/requests"
+                },
+                "updated": "2022-10-06T10:55:16.192034+00:00",
+                "recid": "5137663",
+                "revision": 14,
+                "files": [
+                    {
+                        "id": "57eb72dd-d497-44d8-bbc0-b7e7810983ca",
+                        "key": "jpadfield/simple-site-v1.7.zip",
+                        "size": 3023781,
+                        "checksum": "md5:cdc28bde8eb39ccffaa5d41cca2d7a72",
+                        "links": {
+                            "self": "https://zenodo.org/api/records/5137663/files/jpadfield/simple-site-v1.7.zip/content"
+                        }
+                    }
+                ],
+                "owners": [
+                    {
+                        "id": "167103"
+                    }
+                ],
+                "status": "published",
+                "stats": {
+                    "downloads": 21,
+                    "unique_downloads": 21,
+                    "views": 308,
+                    "unique_views": 280,
+                    "version_downloads": 9,
+                    "version_unique_downloads": 9,
+                    "version_unique_views": 179,
+                    "version_views": 197
+                },
+                "state": "done",
+                "submitted": true
+            }
+        ],
+        "total": 6
+    },
+    "aggregations": {
+        "access_status": {
+            "buckets": [
+                {
+                    "key": "open",
+                    "doc_count": 6,
+                    "label": "Open",
+                    "is_selected": false
+                }
+            ],
+            "label": "Access status"
+        },
+        "resource_type": {
+            "buckets": [
+                {
+                    "key": "software",
+                    "doc_count": 6,
+                    "label": "Software",
+                    "is_selected": false,
+                    "inner": {
+                        "buckets": []
+                    }
+                }
+            ],
+            "label": "Resource types"
+        },
+        "subject": {
+            "buckets": [
+                {
+                    "key": "IIIF",
+                    "doc_count": 4,
+                    "label": "IIIF",
+                    "is_selected": false
+                },
+                {
+                    "key": "FAIR",
+                    "doc_count": 3,
+                    "label": "FAIR",
+                    "is_selected": false
+                },
+                {
+                    "key": "Conservation Documentation",
+                    "doc_count": 2,
+                    "label": "Conservation Documentation",
+                    "is_selected": false
+                },
+                {
+                    "key": "Practical IIIF",
+                    "doc_count": 2,
+                    "label": "Practical IIIF",
+                    "is_selected": false
+                },
+                {
+                    "key": "interoperability",
+                    "doc_count": 2,
+                    "label": "interoperability",
+                    "is_selected": false
+                },
+                {
+                    "key": "API",
+                    "doc_count": 1,
+                    "label": "API",
+                    "is_selected": false
+                },
+                {
+                    "key": "CIDOC CRM",
+                    "doc_count": 1,
+                    "label": "CIDOC CRM",
+                    "is_selected": false
+                },
+                {
+                    "key": "CIDOC-CRM",
+                    "doc_count": 1,
+                    "label": "CIDOC-CRM",
+                    "is_selected": false
+                },
+                {
+                    "key": "Cross Sections",
+                    "doc_count": 1,
+                    "label": "Cross Sections",
+                    "is_selected": false
+                },
+                {
+                    "key": "Data Presentation",
+                    "doc_count": 1,
+                    "label": "Data Presentation",
+                    "is_selected": false
+                }
+            ],
+            "label": "Subjects"
+        },
+        "file_type": {
+            "buckets": [
+                {
+                    "key": "zip",
+                    "doc_count": 6,
+                    "label": "ZIP",
+                    "is_selected": false
+                }
+            ],
+            "label": "File type"
+        }
+    },
+    "links": {
+        "self": "https://zenodo.org/api/records?communities=sshoc&page=1&size=25&sort=newest&type=software"
+    }
+}
