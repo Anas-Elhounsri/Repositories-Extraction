@@ -6,6 +6,7 @@
 - SSHOC (Available)
 - LI-RS (Available)
 - PANOSC (Available)
+- ENVRI (In progress)
 
 ## How to run:
 - Install the required libraries with `requirements.txt`:
