@@ -1,0 +1,1858 @@
+[
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/haddocking/haddock3"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/copasi/COPASI"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/astra-toolbox/astra-toolbox"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://git.smhi.se/ec-earth"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/cdk/cdk"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/pism/pism"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/wadpac/GGIR"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ESMValGroup/ESMValTool"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/openchrom/openchrom"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/iomega/spec2vec"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/OceanParcels/parcels"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/bridgedb/bridgedb"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ESMValGroup/ESMValCore"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/KernelTuner/kernel_tuner"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/fairdatapoint"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-dirac/sagecal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/matchms/ms2deepscore"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/iomega/paired-data-form"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/MAGMa"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/matchms/matchms"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GrainLearning/grainLearning"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DeepRank/deeprank"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/CLARIAH/grlc"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/tpronk/splithalfr"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/WDscholia/scholia"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DeepRank/DeepRank-GNN"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/glotaran/glotaran-legacy/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SCM-NV/qmflows"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/dtscalibration/python-dts-calibration"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/python-template"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/pattyvis"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/mcfly"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/vantage6/vantage6"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/research-software-directory/RSD-as-a-service"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.com/open-darts/open-darts"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/dfsp-spirit/fsbrain"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GooglingTheCancerGenome/sv-callers"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/digitalmethodsinitiative/4cat"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/AA-ALERT/AMBER"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/sanctuuary/ape"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Basvanstein/GSAreport"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/abrupt-climate/hyper-canny"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-klifs"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/omuse-geoscience/omuse"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/ahn-pointcloud-viewer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://git.wur.nl/bioinformatics/pantools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/citation-file-format/citation-file-format"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/dianna-ai/dianna"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/twinl/website"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/candYgene/QTM"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/elpaco-escience/talkr"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eEcoLiDAR/laserchicken"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/UncertaintyVisualization"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ArenA-Crowds/Crowds"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/case-law-app"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DeepRank/deeprank2"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/DiVE"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.utwente.nl/bss_development/movement-science/fpa-estimation"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/candYgene/pbg-ld"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/litstudy/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/524D/compareMS2"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/astro-informatics/sleplet"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/InPhyT/COVID19-Italy-Integrated-Surveillance-Data"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/xenon-middleware/xenon"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Dvermetten/BIAS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/dalesteam/dales"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ExploreASL/ExploreASL"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FastMLC/fMLC"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.com/linkahead/linkahead-server"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/candYgene/siga"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MD-Studio/MDStudio"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/xenon-cli"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/phenology/cgc"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UniTo-SEPI/COVID-19_Piedmont"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://bitbucket.org/robmoss/particle-filter-for-python/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/recipy/recipy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/transientskp/tkp"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EPiCs-group/chemspax"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Basvanstein/doe2vec"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EC-Earth/ece2cmor3"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/jasp-stats/jaspProcess"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/JuliaGraphs/MultilayerGraphs.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UUDigitalHumanitieslab/texcavator"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/alan-turing-institute/data-safe-haven"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/era-urban/wrfpy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/amusecode/amuse"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/cptm"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/eEcology-Annotation-WS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Living-with-machines/MapReader"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/multiscale/muscle3"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/spot"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Slicer/Slicer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/eEcology-Classification"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.com/magnumpi/magnumpi"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/glotaran/TIMP"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/egonw/bacting"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/citation-file-format/cff-converter-python"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/citation-file-format/cff-initializer-javascript"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/citation-js/citation-js"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/eAstroViz"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ADAH-EviDENce/evidence"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fair-software/howfairis"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/computationalgeography/lue"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/mexca/mexca"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlppln/nlppln"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/noodles"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/online-behaviour/machine-learning"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GooglingTheCancerGenome/sv-channels/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/LiacsProjects/Wearda"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/xenon-grpc"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/3D-e-Chem-VM"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/c-martinez/BeyondTheBook"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/animal-sounds"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/sfu-ireceptor/gateway"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DeepRank/iScore"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/lightning-project/lightning"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/AI4S2S/lilio"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fair-workflows/nanopub"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DeepRank/pdb2sql"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/arnikz/PIQMIe"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/AI4S2S/s2spy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/SalientDetector-matlab"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/SalientDetector-python"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SlicerRt/SlicerRT"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Via-Appia/via-appia-online-viewer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/sygma"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/grant-m-s/AstronomicAL"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GO-Eratosthenes/dhdt"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/duqtools/duqtools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/eEcology-script-wrapper"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/entangled/entangled.py"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.com/escape-ossr/eossr"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/ewatercycle"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fair-software/fairtally"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fair-workflows/fairworkflows"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/AA-ALERT/frbcatdb"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/AA-ALERT/frbcat-web"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-kripodb"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/VegeWaterDynamics/motrainer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/KBNLresearch/ochre"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/PanBrowse/PanVA"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/pathvisio/pathvisio"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DeepRank/pssmgen"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/glotaran/pyglotaran"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/ricgraph"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/LINNAE-project/SFB-Annotator"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/ShiCo"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/tortellini-tools/action"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-silicos-it"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/arabic-digital-humanities/adhtools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/ahn-pointcloud-viewer-ws"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/analizo/analizo"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/anonymouus"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/baklava"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/RETURN-project/BenchmarkRecovery"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://www.bioinformatics.org/wiki/BIRCH"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/aces/brainbrowser"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/parallelwindfarms/byteparsing"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/aces/cbrain"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/theochem/chemtools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC-GO-common-infrastructure/dcachefs"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/emrecdem/emo-spectre"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/online-behaviour/find-journalists"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nwo-strap/gamebus-fhir-layer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ubc-library/geodisy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/phac-nml/irida"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/citation-js/isaac-chrome-extension"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/workflow-builder"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/tycho-knime-node-archetype"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-gpcrdb"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-testflow"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/aces/Loris"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/Massive-PotreeConverter"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/esibayes"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MotusWTS/motus"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/524D/mzrecal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/uw-comphys/opencmp"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/OpenMS/OpenMS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/OpenMS/OpenMS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/openPSTD/openPSTD"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Ouranosinc/PAVICS-landing"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/PerfectFit-project/virtual-coach-main"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/phenotips/phenotips"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/PlusToolkit/PlusLib"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/PMEAL/porespy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/JungleComputing/rocket"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://git.km3net.de/rucio/rucio-deployment"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/SalientDescriptor-matlab"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MotionbyLearning/sarxarray"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc/scriptcwl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ci-for-science/self-hosted-runners"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SimVascular/SimVascular"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ivory-tower-private-power/sirup"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SlicerIGT/SlicerIGT"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Urban-M4/snakemake-wrf/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/umple/umple"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/WAM2layers/WAM2layers"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/workflomics/workflomics-frontend"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/xarray-contrib/xarray-regrid/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/xtas"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-pharmacophore"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-plants"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-python-node-archetype"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-python-wrapper"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MindTheGap-ERC/admtools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/TREX-CoE/aiida-champ"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/aiproteomics/aiproteomics"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-ave/ave-rest-service"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MiBiPreT/anatrans"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ANNUBS/annubes"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GeoSensorWebLab/arctic-portal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GeoSensorWebLab/arctic-biomap-server"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.com/arise-biodiversity/biocloud"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/arpra-project/arpra"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/asreview-simulation/asreview-simulation"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/langtonhugh/asreview_irr"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/geomedialab/atlascine"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/haddock3-webapp"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/bartender"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/abelsiqueira/BestieTemplate.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NL-BioImaging/biomero"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/point-cloud-radar/bird-cloud-gnn"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/BlueObelisk/euclid"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/boatswain"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/bridgedb/BridgeDbR"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/bridgedb/BridgeDbWebservice"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/c3s-magic/c3s-magic-wps"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/orgs/canfar/repositories"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/cwrc/beta.cwrc.ca"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/c3g/chord_singularity"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://cwincloud.cc.umanitoba.ca/canwin_public"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/carbon-budget-explorer/cabe"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/caselawanalytics/CaseLawAnalytics"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-nano/CAT"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-nano/ceiba"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-nano/ceiba-cli"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MD-Studio/cerise"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NaturalHPC/cerulean"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/Cesium-NcWMS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/citation-file-format/cffconvert-github-action"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/filippi-claudia/champ"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/jhidding/check-deps"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/Chemical-Analytics-Platform"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/classmodel/class-web"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/drcandacemakedamoore/cleanX"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/CanDIG/CanDIGv2"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/BlueObelisk/cmlxom"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ODISSEI-School-Choice/school-choice"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC-COMPAS/compas-toolkit"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MaastrichtU-IDS/crowdED"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-recruit/cudawrappers"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/brainspinner/cvasl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/common-workflow-language/cwltool"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/cwrc/CWRC-WriterBase"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/e-mental-health/data-processing"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/backdem/democracy-datasets"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/backdem/scrape-tool"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/backdem/democracy-text-classification"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/backdem/democracy-topic-model"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/doerte/discuit-project"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/backdem/doc2sentences"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fastdatascience/drug_named_entity_recognition"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/alan-turing-institute/DTBase"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/phenology/dumme"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://git.iws.uni-stuttgart.de/dumux-repositories/dumux"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Filter-Bubble/e2e-Dutch"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/eEcology-SMS-reciever"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eegyolk-ai/EEG_age_prediction"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/EEG-epilepsy-diagnosis"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLESC-JCER/EigenCuda"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EIT-ALIVE/eitprocessing/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-sherlock/emma"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/mexca/emvoice"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ewatercycle/era5cli"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eucp-project/atlas"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/ewatercycle-hype"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/infra"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/ewatercycle-lisflood"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/ewatercycle-marrmot/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/ewatercycle-pcrglobwb"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/ewatercycle-wflow"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/eWaterleaf"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nwo-strap/excel-to-fhir"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/experiment-launcher"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/dianna-ai/explainable_embedding"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fair-data/fairdatapoint-client"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/QDUNI/FairSECO"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FAIR-data-for-CAPACITY/FHIR-to-CAPACITY"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FLAMEGPU"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-nano/flamingo"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ERA-URBAN/fm128_radar"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLESC-JCER/Fortran_Davidson"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GEMDAT-repos/GEMDAT"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://bitbucket.org/mugqic/genpipes/src/master"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/geoflow-visualizer/geoflow-visualizer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/setup-grpc"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/setup-singularity"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/jhidding/GraphvizDotLang.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/grpc4bmi"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/haddock3-analysis-components"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/haddock3-ui"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/hadrianus-scripts"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/harmonydata/harmony"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/QuantumRadioAstronomy/hera_cal_quantum"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/h-gear/revolution"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/joenio/holodev"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/theochem/horton/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/hpgem/hpgem"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/LAHTeR/htr-quality-classifier"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/iBridges"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/chStaiger/iBridges-Gui"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/JuliaHealth/ICD_GEMs.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/icgc-argo"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ICOS-Carbon-Portal/pylib"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ICOS-Carbon-Portal/meta"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/IMAGE-LAND-LUE"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/duqtools/imas2xarray"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EcoExtreML/infra"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/ia-webscraping"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/carpentries-incubator/deep-learning-intro"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Islandora/islandora"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/jupyterlab-haddock3-configurator"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FZJ-JSC/JUBE"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/RS-DAT/JupyterDaskOnSLURM"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/jupyterlab_thredds"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FZJ-JSC/JURI"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/KernelTuner/kernel_launcher"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC-COMPAS/kmm"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-molviewer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/3D-e-Chem/knime-sstea"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/mess-nlesc/kunefe"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eEcoLiDAR/Laserfarm"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/leakybucket-bmi"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FZJ-JSC/LLview"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EOSC-LOFAR/lofar-ld"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/lofar-predictive-maintenance"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/lokum"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/LXCat-project/LXCat"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://gitlab.com/LXCat-project/lxcat/-/tree/main/packages/schema"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/m4ma/m4ma"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ComputeCanada/magic_castle"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SecConNet/mahiru"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC-GO-common-infrastructure/marzipan"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MiBiPreT/mibipret"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/IMAU-paleo/minimism"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Computational-Biology-TUe/mixed_meal_model_sbml"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/TRI-AMDD/mpet"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/hpgem/nanomesh"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/fair-workflows/NanopubJL"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/BirdsCanada/naturecounts"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Transparency-in-the-non-profit-sector/nedextract"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ERA-URBAN/netcdf2littler"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://codeberg.org/AdamWysokinski/NeuroAnalyzer.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/newsgac/platform"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NNPDF/nnpdf"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NPLinker/nplinker"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://doi.org/10.5281/zenodo.7801713"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GCRC/nunaliit"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/obiba/agate"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/obiba/mica2"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/obiba/opal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/OCTSegmentation"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/surf-eds/one-button-compute"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/OpenDA-Association/OpenDA"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EyeofBeholder-NLeSC/orange3-argument"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/navigating-stories/orange-story-navigator"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/e-mental-health/orange-hackathon"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/osmium"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/obeliss-nlesc/otree-experiments"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/obeliss-nlesc/otree-docker"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/obeliss-nlesc/otree-waiting-room"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/overture-stack/arranger"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/overture-stack/dms"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/overture-stack/ego"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/overture-stack/maestro"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/overture-stack/score"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/overture-stack/song"
+    },
+    {
+        "community": "RSD",
+        "githublink": "http://pacte.crim.ca/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/PanUtils/pantools-pipeline-v4"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/biomarkersParkinson/paradigma"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/parallelwindfarms/parareal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/PattyAnalytics"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/patent-breakthrough"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/i-VRESSE/pdbtbx-ts"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/dl4ld/petrinet"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/spokenlanguage/platalea"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-recruit/PowerSensor3"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/FormingWorlds/PROTEUS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/TRASAL/psrdada-python"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/puregome/notebooks"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/AmruteLab/PyChelator"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eScatter/pyelsepa"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/spex-xray/pyspextools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EcoExtreML/STEMMUS_SCOPE_Processing"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-eTAOC/pyTAMS"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/python-pcl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/xenon-middleware/pyxenon"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SCM-NV/pyZacros"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/QuantumApplicationLab/qalcore"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLESC-JCER/QMCblip"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLESC-JCER/QMCTorch"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SDCCA/quafing/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLESC-JCER/QUICKLB"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/QUMIA/train-scripts"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/usask-rc/radiam/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/simphony/reaxpro-framework-ontology"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/simphony/reaxpro-wrappers"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ree-hdsc/ree-hdsc"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/roblib/rdm-playbook"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://researchportal.indocresearch.org/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/sanctuuary/restape"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ReSurfEMG/ReSurfEMG"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ReSurfEMG/ReSurfEMG-dashboard"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/davideceolin/FAReviews"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/JustinStarreveld/ROBIST"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://git.km3net.de/rucio/km3net_rucio_policy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DynaSlum/satsense"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/elpaco-escience/scikit-talk/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/setup-apptainer"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eWaterCycle/sfincs-bmi-server/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/neelravi/slurm-mongo"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nesi/jupyterlab_slurm_time"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/ctwhome/SmartPlay"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SS-NES/docassemble-SMPDecisionTree"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MALES-project/SpeckleCn2Profiler"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/phenology/springtime/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/SSIML2021/SSIML2021"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC-GO-common-infrastructure/stac2dcache"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EcoExtreML/STEMMUS_SCOPE"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/TUDelftGeodesy/stmtools"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/eucp-project/storyboards"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MindTheGap-ERC/StratPal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/streetview-segmentation"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Filter-Bubble/stroll"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/structure-from-motion"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/GooglingTheCancerGenome/sv-gen"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/nlesc-nano/swan"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/undark-lab/swyft"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MycoAI/taxotagger"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://bitbucket.org/tpronk-test-workspace/my-repo"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/MaastrichtU-Library/the-FAIR-extension"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/tilbotio/tilbot-main"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/mathbioleiden/Tissue-Simulation-Toolkit"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/neelravi/trex2champ"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/alan-turing-institute/trustchain"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/biomarkersParkinson/tsdf"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/TulipaEnergy/TulipaEnergyModel.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/tweet_collector"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/IMAU-paleo/UFEMISM2.0/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/DecodingRaphael/unraphael"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/InPhyT/UnrollingAverages.jl"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://data.oceannetworks.ca/home"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://vhg.indocresearch.org/"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/cancogen-virus-seq/portal"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/votca/xtp"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/QuantumApplicationLab/vqls-prototype"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://data.oceannetworks.ca/home"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/Urban-M4/wrf-runner"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/xenon-middleware/xenon-docker-images"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/yatiml/yatiml"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/UtrechtUniversity/yoda"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/EcoExtreML/zampy"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/NLeSC/zarrviz"
+    },
+    {
+        "community": "RSD",
+        "githublink": "https://github.com/digitalmethodsinitiative/zeeschuimer"
+    }
+]

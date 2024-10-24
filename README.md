@@ -6,7 +6,8 @@
 - SSHOC (Available)
 - LI-RS (Available)
 - PANOSC (Available)
-- ENVRI (In progress)
+- ENVRI (Available)
+- RSD (Available)
 
 ## How to run:
 - Install the required libraries with `requirements.txt`:
@@ -22,6 +23,8 @@ Choose the community you wish to extract data from (type 's' to stop):
 - escape2020
 - LS-RI 
 - PANOSC
+- ENVRI
+- RSD
 
 Input:
 ```
@@ -59,5 +62,5 @@ Similarly, bio.tools offers an API to extract all the tools available on their r
 
 This script extracts approximately 15,000 links, and stores it separately as two JSON files
 
-### For PANOSC:
-For this cluster, since they did not offer an API, I extracted data with webscraping using `bs4` library, and it extracts 23 links. and directly stores them as JSON.
+### For PANOSC, ENVRI: & RSD:
+For these clusters, since they did not offer an API, I extracted data with webscraping using `bs4` library, and it extracts 23 links. and directly stores them as JSON.

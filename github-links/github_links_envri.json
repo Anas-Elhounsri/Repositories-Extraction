@@ -1,0 +1,2066 @@
+[
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/QuantConnect/Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/packit/research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/unitaryfund/research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/akhilvreddy/ECE491-SpecialProblems"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/meteorids/MLO3"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/schatzlab/biomedicalresearch2017"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/QPower-Research/QPowerAlgo"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/simclr"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pfnet-research/bayesgrad"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/novonordisk-research/ProcessOptimizer"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/awsm-research/tutorial"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ml-research/XIConceptLearning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/flashbots/eth2-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bareini/CUD-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/maxvit"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/orcasound/orcaal-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/adobe-research/DeepAFx"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/spotify-research/tdsurv"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/panoptic-labs/research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nateandre/Glaciology-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/spotify-research/collabclass"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/rliable"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/evoflow"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/proteinfer"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ledovsky/eeg-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/DiffEqML/diffeqml-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/adobe-research/MakeItTalk"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/rlds"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/megvii-research/CoNR"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yandex-research/navigan"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/quanta-mental/Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/vision_transformer"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/robustness_metrics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/khalil-research/PyEPO"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/EddieZhu22/Temperature-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/deepmind/deepmind-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/deep_ope"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ADA-research/AutoML4HybridEarthScienceModels"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/recsim_ng"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/parabytes/SMA-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/kcfraser54/Undergraduate-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ayushanand18/obis-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/kubric"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/miller2018_Tongariro_SP_inversion"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/pix2seq"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sbrl/research-smflooding"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jmchisho/Groundwater"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ToyokoLabs/SBG"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/RL-Research-Cohiba/Reinforcement_Learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/carsondahlberg/twitter-covid-19"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/valpasq/Beavers"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/GeostatsGuy/Undergraduate_Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jolespin/projects"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rching/EquityVision"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/chrismhl/tsunami"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/eightynine89/machine-learning-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/licensio/pypi-research-data"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Freshwater-Initiative/Observatory"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hanhanwu/Hanhan_NLP"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/haohaom1/BigelowResearch"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jckantor/ESTM60203"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/GLai19/B9122"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bstabler/TransportationNetworks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research-datasets/hiertext"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/powerpool-finance/powerpool-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/si-score"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Hanson-Research-Lab/TRI_STILT"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/dcellucci/TPMS-Research-Plan"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/social-research/python-workshop"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nec-research/tf-imle"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/uber-research/intrinsic-dimension"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/stephenslater/Astrophysics-Research-Paper"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/samuelhkahn/ai-albedo-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/noncesense-research-lab/archival_network"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jananiarunachalam/Research-Paper-Summarization"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/The-Singularity-Research/cirq_hybrid_codes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/episodic-curiosity"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/The-Singularity-Research/SurfaceCodes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/manningkyle304/edu-research-demo"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/graph-attribution"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/swisscom/ai-research-fairsourcing"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nec-research/mobility-toolkit"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research-datasets/Objectron"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/michimalek/nlp-clustering-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/criteo-research/reco-gym"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/robertmartin8/pValuation"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/howardisaacson/Intro-to-Astro2022"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ipozdeev/it-skills-for-research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tanyhb1/YNC-Ecological-Modelling"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/michhar/useR2016-tutorial-jupyter"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/akverma9/UG-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/SimonAB/Gonzalez-Jimenez_MIRS"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/unerue/or-tutorial"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/quantumiracle/MARS"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Fryingpannn/WallStreetBets_BigDataAnalysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hab-spc/hab_rnd"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/YKatser/CPDE"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/wetseng/air-pollution-analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/marketneutral/alphatools"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/BorealisAI/advertorch"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Eguzelyel/Seeker"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/phenology/springtime"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/EarthByte/PlateTectonicTools"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Qinbf/Detecting"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/dermatologist/nlp-qrmine"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tomasero/openSleep"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/maleakhiw/Pessimistic-Neighbourhood-Aggregation-for-States-in-Reinforcement-Learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TTitcombe/Model-Inversion-SplitNN"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/smeyer71/ENSO_research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mlcoursemm/py2020autumn"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/AlexDuvalinho/Explainable-Artificial-Intelligence-XAI-"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jinmang2/Gachon_Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/EdwardRaff/Research-Reproducibility-Survival-Analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aarongaines/slr_ground_water_quality_"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/barbagroup/essential_skills_RRC"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/JiaRuiShao/WaterShed"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pgc2113/Research-Computing-Final-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/computation-thru-dynamics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ACM-Research/vr-viewport-analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2018-emcyl"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hannaam/MSci-Biochemistry-Research-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/EI-research-group/deep-ei"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/Astic-2019-PGI"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/mood-board-search"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ACM-Research/targeted-password-guesses"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/brain-research/guided-evolutionary-strategies"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/neural-structural-optimization"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/wikimedia-research/Readers-core-metrics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/wikimedia-research/Readers-movement-metrics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yolandaycao/Client-Service-Optimization-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Humboldt-Penguin/Mars-Magnetics-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/waymo-research/waymo-open-dataset"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aws-samples/aws-research-workshops"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Anthonyive/Research-Mapping-Uncanny-Valley"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/twitter-research/image-crop-analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Spencer-Long/Geothermal-Unrest-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/KevinCarr42/Maritimes-Research-Vessel-Surveys"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/oldenburg-2018-AEM"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bio-ontology-research-group/metabolitenet"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aprilhgshin/Digital-Humanities-Research-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/uber-research/atari-model-zoo"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/cns-iu/ccf-research-ftu"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/groundwater-book-figures"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2018-AEM"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Santosh-Gupta/Research2Vec"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rabernat/research_computing"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Hvass-Labs/FinanceOps"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alan-turing-institute/rds-course"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/UCL/rsd-engineeringcourse"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/franchesoni/iislib"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/XiRoSe/Hotels-Reservations-Research-and-Analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ERPscanr/ERPscanr"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mdelrosa/wireless-ml"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sriramelango/CNN-Mosquito-Detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/AYLIEN/fine-grained-event-classification"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/thanhqtran/dataset"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tk-randhawa/Calculating-Optimal-Perovskite-Crystal-Structures"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/cesar-rocha/UpperOceanSeasonality"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/trinhgiahuy/OpenKinTest"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/atgarcial/rces-final-project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Urban-Analytics/dust"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Vatshayan/IEEE-Projects"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2021-tle-casing"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/The-Singularity-Research/QISKit-Surface-Codes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2018-dc-casing"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/agent-based-epidemic-sim"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/soccer-analytics-research/fot-valuing-actions"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bio-ontology-research-group/ontology-tutorial"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2018-em-casing"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Bramson-Planetary-Research-Group/Mars-Troughs"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/timjancic/climate-research-upslope-flux-methods"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ahc1902/2021-2022-UROP-Marsh-Research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2018-fracture-physprops"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/The-Singularity-Research/FinTech-Time-Series"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google-research/reverse-engineering-neural-networks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/heagy-2018-injection-inversions"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/epic-research-group/das-to-discharge"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/oklaM/AI-law"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/NOAA-PMEL/EcoFOCIpy"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Brain-Inspired-Computing/Final-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yohaoyu/ClimateGentrificationSF"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jvrana/Terrarium"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/defeo/ffisom"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/eulerlab/open-visual-stimulator"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Vitomir84/Mathematical_research"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/weecology/bbs-forecasting"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hityingph/Tutorial-on-atomic-simulations"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alineberry/my-movie-recommender"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Aitslab/corona"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/muellerzr/presentations"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/untrix/im2latex"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rileyedmunds/complexcnn"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ajfli/Transfer-Learning-Wildlife"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/smoothkt4951/Massive-Data-Processing-Course"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/raulf2012/PROJ_IrOx_OER"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/lockecd/rces-final-project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/charlesfrye/psych101d"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/howardisaacson/Intro-to-Astro-2019"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/NCBI-Hackathons/SRA_Tinder"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bacchin/chemical_engineering_python"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jaykumar0/serb"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/parsellsx/rces-final-project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/estelle0530/Deep-Learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/awjuliani/neuro-nav"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Enderrrr-TW/Purdue_every_life"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rabernat/wind-extremes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pgniewko/solubility"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/c-hofer/torchph"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Competencia-de-Climate-Change/Landslide_EarlyDetection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ravising-h/Speech2Face"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/vinsis/math-and-ml-notes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/shauseth/article-networks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mattfeng/microbiome"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/lmsasu/MLReadingGroup"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/anmwinter/2ndmeta"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/samzipper/LarnedIntermittencyRegimes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/WSE-research/QADO-question-answering-dataset-RDFizer"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/shreyasthombare555/Research-Project---Street-lightning-Data-Analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/Herring-2021-Hybrid-ERT-Inversion"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/NVIDIA-Genomics-Research/rapids-single-cell-examples"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aws-samples/research-workshop-fits-datalake-code"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ACM-Research/exoplanet-atmosphere-analysis-with-ML"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/simpeg-research/kang-2019-impact-of-wells"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/global-water-watch/research-reservoir-water-dynamics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tombresee/BipedalWalker-v3"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yuwie10/nih-awards"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/MIT-LCP/eicu-code"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alan-turing-institute/rse-course"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ZiegAnt/ResearchModule"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bmcfee/ismir2018-oss-tutorial"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/unsplash/datasets"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/maxrjones/MORB-CO2-vesicles"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yohanesnuwara/DASLab"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jvmncs/Contamination"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jupyter-guide/jupyter-guide"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Nesper94/genomeSeq-test"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/gwnrtools/gwnrtools"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sagepublishing/sage_tools_social_science"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/r-a-morrison/fe_alloy_sound_velocities"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/zjeffer/chess-deep-rl"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/efollansbee/Final-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/clinicalml/ml_mmrf"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/RaineyAbe/GEOS505-fall2022"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ZigaSajovic/Readings"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bgroenks96/generative-downscaling"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/dos-group/lets-wait-awhile"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pmuens/lab"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nathanshammah/make-your-code-count"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/KennedyClouds/OSCRE"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pmelchior/usrp-sciprog"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/spsrc/droplets"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pedhmendes/ising-dimension-reduction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mitthting/end-to-end_noise-robustness_ASR"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/csun365/Mosquito-Habitat-Prediction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hoostus/prime-harvesting"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ggdurrant/nfl-qb-shoulder-injuries"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TomLav/snippets"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tawells/PETM_LDA"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/dI98Sk/Traiding_Analyse"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/decorrespondent/youtube_extremism"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alitquan/Computer-Vision-Merchandising-Resets"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/HolderChristopher/linking_intrinsic_and_apparent_relationships"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/seopbo/CS20"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/stephenshank/mutation-selection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/eabarnes1010/ml_tutorial_csu"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/danamlewis/OpenHumansDataTools"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/angelosalatino/csrf"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Rucharailkar/rrailkar-MS-Error-Ellipse-tool"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ericcchase/asd_mri_prediction_modeling"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/analysiscenter/cardio"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/cmergny/EarlyMoon_Evolution"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/UNM-CARC/QuickBytes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bio-ontology-research-group/machine-learning-with-ontologies"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TheProjectsGuy/Learning-Habitat"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/analysiscenter/radio"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/google/dopamine"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/adamnpeace/learned-ct-reconstruction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alibaba/clusterdata"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tzw5099/delete-robinhood"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aretu/fracture_energy"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tensorflow/lucid"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/agu-ossi/2018-agu-oss"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/tg-bomze/NeuralStockPredictor"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yiyuezhuo/Victoria-II-save-file-parser"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Badr-MOUFAD/multivariate-time-series-clustering"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/uatharva/Learning-to-Detect-Heavy-Drinking-Episodes-Using-Smartphone-Accelerometer-Data"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rmquimby/Astronomical_Techniques"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/raulf2012/Supported_Graphene_2018"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/CassiaCai/MJO_chlorophyll_a_SST"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nghiahhnguyen/SWHGD"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hathix/searchbetter"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/wuihee/measuring-carbon-footprints"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/CamHD-Analysis/CamHD_object_identification"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/oxfordinternetinstitute/sds-python"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ecglazer/rces_final_project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/AnasAito/um6p-chemistry-kg"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/thepanacealab/covid19_twitter"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Vatshayan/Telecommunication-Final-Year-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/SMILELab-FL/FedLab"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/anthony-wang/BestPractices"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/JGradone/Slocum-AD2CP"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/thunderhoser/cira_uq4ml"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/andreww/prem4derg"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/guide2157/ChulaXrayClassifier"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/wsular/urbanova-aqnet-rpi-node"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/MIT-LCP/mimic-code"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sbonaretti/pyKNEEr"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/NordicESMhub/RELIANCE"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/po1line/Analytics-on-research-of-pharmaceuticals-entry-in-soils"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/American-Institutes-for-Research/dsaa-cssip-big-data-workbooks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ssg-research/dawn-dynamic-adversarial-watermarking-of-neural-networks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/martinfleis/numerical-taxonomy-paper"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jmartinezheras/reproduce-stock-market-direction-random-forests"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Avalon-Benchmark/avalon"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/davidvng/project-dmeff"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Jash-2000/Autonomous-Navigation-of-Self-Balancing-Segway"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/andres-patrignani/pynotes"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pabloinsente/sf_for_beh_ss"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/podaac/MEaSUREs-SSH"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/arabiaweather/athena"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Danielmoraisg/Master-degree"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/LorenFrankLab/spyglass"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mitre-attack/attack-datasources"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sho-kawano/plots_galore"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Valdinious/Carbon-Footprint-Multi-Agent-Reinforcement-Learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yzerlaut/notebook_papers"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/trashbirdecology/bbl_xdd"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/baubels/stuod_cyclone"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TiesdeKok/LearnPythonforResearch"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/agrogeophy/catalog"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/MatteoRomiti/Sextortion_Spam_Bitcoin"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ShreyPandit/Ablation-Cam"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sarahgarre/onderzoekskouter_water"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mlmldata2018/Coral-Bleaching-Project-MS263"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/DominikStiller/tudelft-hpb-project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/e-lubrini/psylve"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/thefonseca/predictive-coding"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TobbeTripitaka/ant_lithosphere"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/IvLabs/Quantum-Machine-Learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/lukassnoek/introPy"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/trashbirdecology/bbs_xdd"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mkschleg/RLTutorial.jl"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/IntelLabs/distiller"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jnsofini/Computed-Tomography"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rajaswa/feedback-and-memory-in-transformers"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/robisonJohn/Blockchain-Governance-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/akon1te/Whale-detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TravorLZH/pm25"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/talisma-cassoma/UnderWaterDrone-D-OceanLab"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/krassowski/multi-omics-state-of-the-field"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/INDIG0N/anemia_data"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/fanweiya/Fish-Fine-Grained-Recognition"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Travis024/Comparison-of-Methods-for-Estimating-Future-Flood-Risk-in-New-Orleans-Louisiana"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mpudil/projects"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/SunnyShikhar/music-datamining"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aakash791/Epileptic_Seizures_Prediction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/iris-keizer/Thesis-KNMI"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/protocol/CryptoEconLab"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/gumption/Python_for_Data_Science"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/consoledotdev/mars-internet"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/PaulNantas/LOCEAN-SuperResolution_Algorithm"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/codykingham/Verb_in_Biblical_Hebrew"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/brazil-data-cube/wlts-paper"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/MHassaanButt/FCHCNN-for-HSIC"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/whigg/Wave_Climatology"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/softwareunderground/subsurface-journal"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/marinadunn/thesis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/martinfleis/evolution-gean"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/microsoft/CyberBattleSim"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/emmanuel-123tech/AI4D-Africa-s-Anglophone-Research-Lab-Tanzania-Tourism-Classification-Challenge"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mikemikezhu/topic_modelling_covid19"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/MarcelinoV/HATLab_REU"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/anamarina/RecSys_course"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/kejihela/INTEGRATION-OF-FACE-VERIFICATION-WITH-SMART-CARD-READER-FOR-ELECTORAL-PROCESS-IN-NIGERIA."
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/kensukename2/Naito_Parker_JGRES_Bankfull_characteristics_model"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/DSSR2/gaze-track"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/howon-kim/Urban-Data-Analytics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/kraj593/novel_two_stage"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mailemccann/coastalimagelib"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/elangovana/PPI-typed-relation-extractor"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/GDSL-UL/sat_cnn"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/eleanorlutz/aedes-aegypti-2019"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/earthpulse/pytorch_eo"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nav-e/machine-learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jdiaz4302/VolcanoesIR"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/INASIC/conus-exogenomics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/GoogleCloudPlatform/t5x-on-vertex-ai"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/AJueling/python_climate_physics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/lucaspauker/hmi-time-series-analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Fabioconti99/RT1_Assignment_3"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/graphcore/ogb-lsc-pcqm4mv2"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ncoop57/tango"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/antellgc/HIV-Tat-Neuro"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/yohman/21W-UP206A"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/spyrostheodoridis/Genetic-geography-of-terrestrial-mammals"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Cvrane/ChartReader"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ealcobaca/mlglass"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Shivani-781/Ganga-Water-Quality-Assessment"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ericardomuten/qcnn-hep"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ecmwf-lab/med-extreme-prec-atm-patterns"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/NCAR/pi-wrf"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Adrian-Rae-19004029/Universal-function-approximation-over-sets"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ddasilva/dmsp-dispersion-detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bancorprotocol/carbon-simulator"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/leap-stc/LEAPCourse-Climate-Pred-Challenges"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Beximus/ResearchPortfolioCode"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ethan-campbell/Weddell_phyto_paper"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ai-systems/DILP-Core"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/LaviSchlyter/research_course_coral"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/SefiHendry/NASA-Heat-Maps-Prediction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/GuilleMarc/CoverCrops_ML_Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/idanhoro/NASA-Heat-Maps-Prediction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/LiekeLokin/DuneDataAnalysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/nyupredocs/githubtutorial"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TQRG/security-patches-dataset"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/poppy-project/poppy-humanoid"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/droidy12527/DeepLearningModelComparision"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/poppy-project/poppy-torso"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/stevenrouk/evolution-of-machine-learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/EricElmoznino/qualia_and_dynamics"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/gmum/umwpl2021"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Hafsah2020/Outreachy_Hafsah_Anibaba_2022"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/SulemanHamdani/Hong-Kong-s-River-dataset-cleaning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mkirby42/PyISRU"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/micheofire/Oil-production-forecast"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/gcoelho2/precip_change"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Iman-L/Outreachy_iman_linje_2022"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/bakrianoo/aravec"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rahulgaikwad2010/facial-expression-recognition-deep-learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/TMURS/Google-Earth-Engine"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Nikoletos-K/QA-with-SBERT-for-CORD19"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/kavisek/fraud-detection-capstone"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sayalaruano/MidtermProject-MLZoomCamp"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/vandana28/Analysis-of-Climate-Change-and-its-Potential-Impacts"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Roshanmahes/Python-for-Teachers"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/moritzmeister/flinkanonymity"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/hasnainnaeem/PlotPricePrediction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/k3nnethfrancis/project-lion"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/KILBAHA/Neuroblastoma-Transcriptomic-Analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sunilbelde/Imagedenoising-dncnn-ridnet-keras"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/The-Art-of-Hacking/h4cker"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/SMPyBandits/SMPyBandits"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/harshnirajsheth/Predicting-the-life-cycle-of-lithium-ion-batteries-using-degradation-data"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mddesta/Political-Advertisement-in-US"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aymane399/Machine-learning-on-Neuroscience-datasets"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/oceanhackweek/ohw21_proj_tag_data"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sazio/Transients"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/arsena-k/Word2Vec-bias-extraction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/KoksiHub/APPFD_FK_GMM-Method-For-SHREC-2021-Surface-based-Protein-Domains-Retrieval"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Evm7/Tutorials-Computer-Vision"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/mittrayash/Parkinson-s-Disease-Detection-using-Gait-Analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/prateekjoshi565/Community_Detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/geeky-bit/SVR--Decision-Trees--Random-Forests--DeepNeuralNets--to-PREDICT-FOREST-FIRES"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/DiSSCo/envri-fair-use-case"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/luiscib3r/Solar-Rad-Forecasting"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/JRCSTU/gearshift_calculation_tool"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/gohollyo/Synestia"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alisonsoong/NASA-SEES-2021-Emergency-Preparedness"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/codebotx/Bird-Migration-data-analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/onc-healthit/2021PCOR-ML-AI"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/davidt964/Mangrove-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/LaserStefan/IchbinHanna"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Alhaji-trujillo/SWOT-Module--Anisotropic-Diffusion"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/JuanHigueraC/Statistical-mechanics-and-network-science-for-the-simulation-of-injuries-in-the-human-brain"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/paveethranswam/Diet-Nutrition-and-Foods-recommendation-for-Cancer-Patients-and-extend-this-to-build-as-application"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/alessandromonolo/Harmful-days-classification-model"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/krishnaaxo/Ozone_detection_using_AI"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/lecritch/Rate-5-Get-5-Movie-Recommendation-System"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/aaditya-pdgupta/neural_network_in_biology"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/KarimMAJDOUB/Volve-field-machine-learning"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Bruce114996/ClimatePredictionChallengesProject3"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/pjsimmon/E4E_Smartfin"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Mordant-Black/Sentiment-Bitcoin"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/johnyj02/Cloud_detection_through_semantic_segmentation"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jackline-ngenia/Food-Carbon-Food-Print-Project"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/AmirAli5/100DaysOfMLCode"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/microsoft/EconML"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/g-divya/heart-disease-predictor"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/disojn/Healthcare-Analysis"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ncanha/ONA-algorithm-in-Python-for-BC-data-noise-reduction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Ibrahim-netizen/Fake-news-Detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/danielchristopher513/Data_analytics_team_atom"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/sidmulajkar/sentiment-predictor-for-stress-detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/dnyanshwalwadkar/Happywhale-Whale-and-Dolphin-Identification"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/superhen/Automated-Job-Resume-Matching-Solution"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/metemaad/HURDAT2_processor"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/anushabharati/DataAnalysisusingPython"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Sangramsingkayte/Stroke-Prediction"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/abebual/Predicting-ICU-Patient-Clinical-Deterioration---Report"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/ruminaviciute/japan-youth-unemployment-modeling"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/AdityaRaj028/Design-of-Algorithm-for-Detection-of-Myocardial-Infarction-using-ECG-Signals"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/jojo62000/Learn-Keras-for-Deep-Neural-Networks"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/waleblaq/planet-understanding-the-amazon-from-space"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/venkatFontbonne/Drowsiness"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/muhammadsohaib60/Urdu-OCR"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/Vu5e/JobFailurePredictionGoogleTraces2019"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/RajathAkshay/Sentiment-Classification-for-Product-Reviews"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/kietnv/vireader"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/MengchuanFu/Suspecious-Apps-Detection"
+    },
+    {
+        "community": "ENVRI",
+        "githublink": "https://github.com/shishirdas/Rain-Fall_Data_Analysis_Using_Data_Science"
+    }
+]

@@ -9,6 +9,8 @@ if module_path not in sys.path:
 from zenodo_api import extract_data_zenodo, extract_repos_zenodo
 from ls_ri_api import extract_data_ls_ri, extract_repos_ls_ri
 from panosc_bs4 import write_repos_panosc
+from envri import write_repos_envri
+from rsd import write_repos_rsd
 
 def main():
 
@@ -38,6 +40,19 @@ def main():
             print("----------------------------------------------")
             write_repos_panosc()
             print("----------------------------------------------")
+
+        elif community != 's' and community == 'envri':
+            print("")
+            print("----------------------------------------------")
+            write_repos_envri()
+            print("----------------------------------------------")
+
+        elif community != 's' and community == 'rsd':
+            print("")
+            print("----------------------------------------------")
+            write_repos_rsd()
+            print("----------------------------------------------")
+
 
 
     print("")
