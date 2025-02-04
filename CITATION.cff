@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Repositories Extraction
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anas
+    family-names: El Hounsri
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14803009
+repository-code: >-
+  https://github.com/Anas-Elhounsri/Repositories-Extraction/tree/main
+license: CC0-1.0
+version: 1.0.0
