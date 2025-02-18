@@ -67,3 +67,8 @@ This script extracts approximately 15,000 links, and stores it separately as two
 
 ### For PANOSC, ENVRI: & RSD:
 For these clusters, since they did not offer an API, I extracted data with webscraping using `bs4` library, and it extracts 23 links. and directly stores them as JSON.
+
+## Ackowlegement:
+The authors acknowledge the OSCARS project, which has received funding from the European Commission's Horizon Europe Research and Innovation programme under grant agreement No. 101129751
+
+<img src="logo.png" alt="logo"/>
